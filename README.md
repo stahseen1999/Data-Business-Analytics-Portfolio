@@ -1,6 +1,6 @@
 # Hi, I'm Sufiya Tahseen 👋
 
-### Data Analyst | BI Analyst | SQL | Python | Power BI | Excel | AI
+### Business Analyst | Agile & Scrum | Stakeholder Management | Requirements Gathering | SQL | Power BI | Azure DevOps
 
 ## 👩‍💻 About Me
 
