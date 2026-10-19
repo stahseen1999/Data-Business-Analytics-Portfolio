@@ -4,57 +4,62 @@
 
 ## 👩‍💻 About Me
 
-I'm a aspiring **Data Analyst and Business Intelligence professional** with previous experience in **software development and .NET/Full-Stack development**. My development experience has given me a strong foundation in **programming, technical problem-solving, understanding business requirements and building end-to-end solutions**.
+I'm a **Business Analyst with 4+ years of professional experience** in enterprise SaaS product development, business requirements gathering, stakeholder management, Agile methodologies, and business process improvement.
 
-I've transitioned into **Data Analytics and Business Intelligence**, building on my software development background to work with data, identify patterns, solve business problems and translate analysis into **meaningful business insights**.
+At **Huron Consulting Group**, I worked on an enterprise SaaS compliance platform, collaborating closely with Product Managers, business stakeholders, developers, and QA teams to understand business needs, analyze product workflows, define requirements, and translate them into actionable technical solutions.
 
-My technical expertise includes **SQL, Python, Excel, Power BI, DAX and Tableau**, along with experience using **AI tools, automation and AI-assisted workflows** to support data exploration, analytical problem-solving and development.
+My experience includes **requirements analysis, user stories, acceptance criteria, backlog refinement, sprint planning, stakeholder communication, business rules validation, process improvement, and User Acceptance Testing (UAT)**. I have worked in Agile/Scrum environments, supporting the end-to-end requirements lifecycle and ensuring alignment between business objectives and product delivery.
 
-I have completed hands-on projects covering **data cleaning, data validation, exploratory analysis, SQL querying, data modeling, KPI development, dashboard creation and business reporting** across Excel, SQL and Power BI.
+My technical expertise includes **SQL, PostgreSQL, Excel, Power BI, DAX, Power Query, Python, JIRA, and Azure DevOps**, along with experience in data investigation, root cause analysis, KPI reporting, and business intelligence.
 
-I enjoy combining **technical knowledge, analytical thinking and business understanding** to turn complex data into **actionable insights and practical solutions**.
+I have also developed hands-on analytics projects involving **data cleaning, data validation, SQL analysis, data modelling, KPI development, dashboard creation, and business reporting** across healthcare operations and e-commerce domains.
+
+I enjoy working at the intersection of **business, technology, and data**, collaborating with stakeholders, solving complex business problems, improving processes, and delivering practical, data-driven solutions that create meaningful business value.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Core Competencies
 
-**Data Analytics**
-- SQL
-- Python
-- Pandas
-- NumPy
-- Excel
-- Exploratory Data Analysis
+**Business Analysis & Requirements Management**
+- Business Requirements Gathering & Analysis
+- Functional Requirements Analysis
+- Business Process Analysis & Improvement
+- Product Workflow Analysis
+- Business Rules Validation
+- Gap Analysis & Root Cause Analysis
+- User Stories & Acceptance Criteria
+- Requirements Documentation & Traceability
+
+**Agile & Scrum Methodologies**
+- Agile / Scrum Framework
+- Sprint Planning & Backlog Refinement
+- User Story Management
+- Sprint Reviews & Stakeholder Demonstrations
+- Sprint Ceremonies & Estimation
+- User Acceptance Testing (UAT)
+- Cross-Functional Team Collaboration
+
+**Stakeholder Management & Communication**
+- Stakeholder Engagement & Communication
+- Requirements Discussions & Clarification
+- Business & Technical Team Coordination
+- Solution Reviews & Feedback Management
+- Product Manager Collaboration
+- Problem-Solving & Decision Support
+
+**Data Analysis & SQL**
+- SQL / PostgreSQL / MySQL
+- Joins, CTEs, Subqueries & Window Functions
+- Data Investigation & Validation
 - Data Cleaning & Transformation
+- Root Cause Analysis
+- Excel, PivotTables & Lookup Functions
+- Python, Pandas & NumPy
 
-**Business Intelligence**
-- Power BI
-- DAX
-- Power Query
+**Business Intelligence & Reporting**
+- Power BI / Tableau
+- DAX & Power Query
 - Data Modeling
-- Star Schema
-- Dashboard Development
-- KPI & Business Reporting
-
-**Databases**
-- MySQL
-- SQL Server
-- Joins
-- CTEs
-- Subqueries
-- Window Functions
-
-**AI & Automation**
-- AI-Assisted Data Analysis
-- AI-Assisted SQL & Python Development
-- AI-Supported Problem Solving
-- Workflow Automation
-
-**Previous Development Experience**
-- C#
-- .NET
-- Full-Stack Development
-- Application Development
 
 ---
 
@@ -185,14 +190,20 @@ I validate AI-assisted outputs against the underlying data and business requirem
 
 ## 🎯 Areas of Interest
 
-- Data Analytics
-- Business Intelligence
-- SQL & Database Analytics
-- Data Visualization
-- Power BI & DAX
-- AI-Powered Analytics
-- Process Improvement
+- Business Analysis & Requirements Management
+- Agile & Scrum Methodologies
+- Stakeholder Management & Collaboration
+- Business Process Analysis & Improvement
+- Product Management & SaaS Solutions
+- User Stories & Acceptance Criteria
+- Business Requirements Gathering
+- Business Process Optimization
+- User Acceptance Testing (UAT)
+- SQL & Data Analytics
+- Business Intelligence & Power BI
+- Root Cause Analysis & Problem Solving
 - Data-Driven Decision Making
+- AI-Powered Business Analytics
 
 ---
 
